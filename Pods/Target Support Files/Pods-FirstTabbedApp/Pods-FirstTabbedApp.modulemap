@@ -1,6 +1,0 @@
-framework module Pods_FirstTabbedApp {
-  umbrella header "Pods-FirstTabbedApp-umbrella.h"
-
-  export *
-  module * { export * }
-}
